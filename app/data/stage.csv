@@ -1,0 +1,49 @@
+key,splatnet,name_ja,name_en,short_name_ja,short_name_en,area,release_at_time,release_at_iso
+battera,0,バッテラストリート,The Reef,バッテラ,Reef,2450.0,1490382000,2017-03-24T19:00:00+00:00
+fujitsubo,1,フジツボスポーツクラブ,Musselforge Fitness,フジツボ,Fitness,1957.0,1490382000,2017-03-24T19:00:00+00:00
+gangaze,2,ガンガゼ野外音楽堂,Starfish Mainstage,ガンガゼ,Mainstage,2140.0,1500105600,2017-07-15T08:00:00+00:00
+kombu,5,コンブトラック,Humpback Pump Track,コンブ,Track,2259.0,1500105600,2017-07-15T08:00:00+00:00
+ama,4,海女美術大学,Inkblot Art Academy,アマビ,Academy,2465.0,1500105600,2017-07-15T08:00:00+00:00
+chozame,3,チョウザメ造船,Sturgeon Shipyard,チョウザメ,Shipyard,2355.0,1500562800,2017-07-20T15:00:00+00:00
+hokke,7,ホッケふ頭,Port Mackerel,ホッケ,Port,2455.0,1500562800,2017-07-20T15:00:00+00:00
+tachiuo,8,タチウオパーキング,Moray Towers,タチウオ,Towers,2215.0,1500105600,2017-07-15T08:00:00+00:00
+mystery,9999,ミステリーゾーン,Shifty Station,ミステリー,Shifty,,1501826400,2017-08-04T06:00:00+00:00
+manta,6,マンタマリア号,Manta Maria,マンタ,Manta,2355.0,1503673200,2017-08-25T15:00:00+00:00
+mozuku,10,モズク農園,Kelp Dome,モズク,Dome,2315.0,1505527200,2017-09-16T02:00:00+00:00
+engawa,9,エンガワ河川敷,Snapper Canal,エンガワ,Canal,2250.0,1507298400,2017-10-06T14:00:00+00:00
+bbass,11,Bバスパーク,Blackbelly Skatepark,Bバス,Skatepark,1947.0,1509156000,2017-10-28T02:00:00+00:00
+zatou,13,ザトウマーケット,MakoMart,ザトウ,Mart,2166.0,1511575200,2017-11-25T02:00:00+00:00
+arowana,15,アロワナモール,Arowana Mall,アロワナ,Mall,2391.0,1517536800,2018-02-02T02:00:00+00:00
+hakofugu,14,ハコフグ倉庫,Walleye Warehouse,ハコフグ,Warehouse,1632.0,1513303200,2017-12-15T02:00:00+00:00
+devon,12,デボン海洋博物館,Shellendorf Institute,デボン,Institute,2052.0,1515722400,2018-01-12T02:00:00+00:00
+ajifry,18,アジフライスタジアム,Goby Arena,アジフライ,Arena,2221.0,1519956000,2018-03-02T02:00:00+00:00
+shottsuru,17,ショッツル鉱山,Piranha Pit,ショッツル,Pit,3081.0,1522461600,2018-03-31T02:00:00+00:00
+mongara,16,モンガラキャンプ場,Camp Triggerfish,モンガラ,Camp,2338.0,1524621600,2018-04-25T02:00:00+00:00
+sumeshi,20,スメーシーワールド,Wahoo World,スメーシー,World,2858.0,1527811200,2018-06-01T00:00:00+00:00
+otoro,19,ホテルニューオートロ,New Albacore Hotel,オートロ,Hotel,2405.0,1530403200,2018-07-01T00:00:00+00:00
+anchovy,21,アンチョビットゲームズ,Ancho-V Games,アンチョビ,Games,2642.0,1533081600,2018-08-01T00:00:00+00:00
+mutsugoro,22,ムツゴ楼,Skipper Pavilion,ムツゴ楼,Pavilion,2439.0,1538532000,2018-10-03T02:00:00+00:00
+mystery_01,101,追憶のスライド,Wayslide Cool,スライド,Shifty 1,2011.0,1501826400,2017-08-04T06:00:00+00:00
+mystery_02,102,約束の丘で会いましょう,The Secret of S.P.L.A.T.,約束の丘,Shifty 2,1885.0,1504324800,2017-09-02T04:00:00+00:00
+mystery_03,103,ハンサムなスポンジ,Goosponge,スポンジ ,Shifty 3,1900.0,1504936800,2017-09-09T06:00:00+00:00
+mystery_04,100,ウィンドミル・キス,Windmill House on the Pearlie,ウィンドミル,Shifty 4,2061.0,1507953600,2017-10-14T04:00:00+00:00
+mystery_05,107,バーの一族,Fancy Spew,バー,Shifty 5,2455.0,1512799200,2017-12-09T06:00:00+00:00
+mystery_06,106,トランスペアレント・ボーイ,Zone of Glass,透明,Shifty 6,2027.0,1515816000,2018-01-13T04:00:00+00:00
+mystery_07,105,ヒメちゃんのキャノン,Cannon Fire Pearl,キャノン,Shifty 7,2390.0,1517637600,2018-02-03T06:00:00+00:00
+mystery_08,110,トジトジ,The Bunker Games,ドジドジ,Shifty 8,2770.0,1520056800,2018-03-03T06:00:00+00:00
+mystery_09,108,イタズラなヒキヨセ,Grapplink Girl,ヒキヨセ,Shifty 9,2199.0,1521871200,2018-03-24T06:00:00+00:00
+mystery_10,109,あしたはデンデン,Zappy Longshocking,デンデン,Shifty 10,2185.0,1524290400,2018-04-21T06:00:00+00:00
+mystery_11,111,天秤ラヴァーズ,A Swiftly Tilting Balance,天秤,Shifty 11,2300.0,1526702400,2018-05-19T04:00:00+00:00
+mystery_12,113,たこあし注意報!,Sweet Valley Tentacles,たこあし,Shifty 12,2593.0,1532145600,2018-07-21T04:00:00+00:00
+mystery_13,112,ヌリとスイッチの吐息,The Switches,スイッチ,Shifty 13,2360.0,1534572000,2018-08-18T06:00:00+00:00
+mystery_14,114,ジャンプマットの詩,The Bouncey Twins,マット,Shifty 14,1783.0,1537588800,2018-09-22T04:00:00+00:00
+mystery_15,115,キミのハートにライド・オン!,Railway Chillin',ライドオン,Shifty 15,2188.0,1539936000,2018-10-19T08:00:00+00:00
+mystery_16,116,カンケツセンのばら,Gusher Towns,間欠泉,Shifty 16,2297.0,1541829600,2018-11-10T06:00:00+00:00
+mystery_17,117,恋はダッシュ×3,The Maze Dasher,ダッシュ,Shifty 17,2327.0,1544846400,2018-12-15T04:00:00+00:00
+mystery_18,118,ドーザームーン,Flooders in the Attic,ドーザー,Shifty 18,2254.0,1546588800,2019-01-04T08:00:00+00:00
+mystery_19,119,クイックバスケット,The Splat in Our Zones,バスケット,Shifty 19,2583.0,1549087200,2019-02-02T06:00:00+00:00
+mystery_20,120,ヌリヌリトゥナイト,The Ink is Spreading,ヌリヌリ,Shifty 20,2259.0,1552708800,2019-03-16T04:00:00+00:00
+mystery_21,121,ビッグ゠パネルが止まらない,Bridge to Tentaswitchia,ビッグパネル,Shifty 21,2832.0,1555660800,2019-04-19T08:00:00+00:00
+mystery_22,122,思い出コロガリウム,The Chronicles of Rolonium,コロガリウム,Shifty 22,2059.0,1557554400,2019-05-11T06:00:00+00:00
+mystery_23,123,ピロピロなんかじゃない,Furler in the Ashes,ピロピロ,Shifty 23,2373.0,1560571200,2019-06-15T04:00:00+00:00
+mystery_24,124,DEAR SENPAI,MC.Princess Diaries,センパイ,Shifty 24,2743.0,1563537600,2019-07-19T12:00:00+00:00

@@ -1,0 +1,8 @@
+__pycache__
+.ipynb_checkpoints/
+.pytest_cache/
+trash/
+/app/models/
+/app/features/
+/app/tmp/
+mprofile_*.dat
